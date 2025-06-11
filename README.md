@@ -1,2 +1,2 @@
-# java_DSA
-this repo is create for learning DSA using java
+# java_dsa
+this repo is created for learning DSA using java
